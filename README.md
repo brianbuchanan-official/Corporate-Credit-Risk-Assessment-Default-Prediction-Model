@@ -26,7 +26,7 @@ In this project, I developed a predictive model to assess the default risk of **
 
 ### 📂 Data & Code
 * **Source Code:** [View Jupyter Notebook](./GS_Credit_Risk_Engine.ipynb) — *Full Python implementation from data cleaning to model deployment*.
-* **Dataset:** [Corporate Financial Risk Data](https://www.kaggle.com/datasets/the-source-link) — *Standardized dataset containing 5,000 corporate financial records*.
+* **Dataset:** [Corporate Financial Risk Assessment Dataset](https://www.kaggle.com/datasets/zoya77/corporate-financial-risk-assessment-dataset) — *Dataset containing 5,000 corporate financial records used for training and testing*.
 
 ---
 
