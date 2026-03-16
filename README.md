@@ -1,7 +1,7 @@
 # Corporate Credit Risk Assessment & Default Prediction Model
 
 ### 📊 Project Overview
-In this project, I developed a predictive model to assess the default risk of **5,000 corporate entities**. By analyzing 16 key financial metrics—including Debt, Cash Flow, and Revenue—I built a tool to identify high-risk companies, providing a data-driven approach to insurance underwriting and credit assessment.
+In this project, I developed a predictive model to assess the default risk of **5,000 corporate entities**. By analyzing 16 key financial metrics, including Debt, Cash Flow, and Revenue, I built a tool to identify high-risk companies, providing a data-driven approach to insurance underwriting and credit assessment.
 
 ![Financial Risk Drivers](./credit_risk_feature_importance.png)
 *Figure 1: Visual breakdown of risk coefficients. Features on the right drive default predictions, while features on the left indicate financial stability.*
